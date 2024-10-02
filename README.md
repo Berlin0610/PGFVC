@@ -1,15 +1,19 @@
 # Beyond GFVC: A Progressive Face Video Compression Framework with Adaptive Visual Tokens
 
-## Demo: Similar Bitrate
+## Demo: Different Compression Algorithms at Similar Bitrate 
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236777727-0e641d02-6a7c-46e1-be0b-bfa54745e54f.mp4)](https://user-images.githubusercontent.com/80899378/236777727-0e641d02-6a7c-46e1-be0b-bfa54745e54f.mp4)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/3a3afb51-a84c-4822-995b-48ab553295b7)](https://github.com/user-attachments/assets/3a3afb51-a84c-4822-995b-48ab553295b7)
+
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/1f2eca64-2425-4a87-b74d-1fa6ce09cea3)](https://github.com/user-attachments/assets/1f2eca64-2425-4a87-b74d-1fa6ce09cea3)
+
+## Demo: Progressive Face Video Compression with 4 Different Token Granularities
+
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/49add81a-e595-46fd-822e-5f34b62b2fcd)](https://github.com/user-attachments/assets/49add81a-e595-46fd-822e-5f34b62b2fcd)
 
 
-## Demo: Similar Quality
-
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236777741-ed7741bc-ac99-4bf5-a9d3-9369e938c932.mp4)](https://user-images.githubusercontent.com/80899378/236777741-ed7741bc-ac99-4bf5-a9d3-9369e938c932.mp4)
 
 
-## Demo: Animating Virtual Faces
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236778089-cc2018df-9943-4b57-8514-74dfdac712df.mp4)](https://user-images.githubusercontent.com/80899378/236778089-cc2018df-9943-4b57-8514-74dfdac712df.mp4)
+
+
+
