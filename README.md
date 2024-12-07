@@ -1,6 +1,6 @@
 # Beyond GFVC: A Progressive Face Video Compression Framework with Adaptive Visual Tokens
 
-# Accepted by IEEE Data Compression Conference (DCC) 2025 & Souce code is coming soon.
+## Accepted by IEEE Data Compression Conference (DCC) 2025 & Souce code is coming soon.
 
 ## Demo: Different Compression Algorithms at Similar Bitrate 
 
